@@ -48,4 +48,4 @@ Features:
 
 - JSON Editing
 
-  - Quick access to employees.json and residents.json (removed for git for privacy reasons) 
+  - Quick access to employees.json and residents.json (removed from git for privacy reasons) 
