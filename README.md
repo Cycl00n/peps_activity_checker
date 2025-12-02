@@ -46,6 +46,6 @@ Features:
 
   - Smart Name Removal
 
-🧩 JSON Editing
+JSON Editing
 
-Quick access to employees.json and residents.json (removed for git for privacy reasons) 
+- Quick access to employees.json and residents.json (removed for git for privacy reasons) 
